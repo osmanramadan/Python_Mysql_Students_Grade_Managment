@@ -1,3 +1,3 @@
 ﻿# Python_students_grade_managment
- ![cover](imgs/bgall.png)
+ ![cover](imgs/bgall.PNG)
 
